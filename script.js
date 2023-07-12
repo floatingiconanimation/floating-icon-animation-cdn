@@ -21,6 +21,7 @@ function floating_icon(background="red", bgimage="", size="50", opacity="50") {
             background-image: url(${bgimage});
             background-size: 100% auto;
             background-position: center;
+            background-repeat: no-repeat;
         }
 
         .x {
